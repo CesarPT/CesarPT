@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**CesarPT/CesarPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### DevOps Tools (IDE's)
 
-Here are some ideas to get you started:
+<!--<img src="" width="100"></img>-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/CesarPT/CesarPT/assets/76701595/d758da8d-fac0-41c9-99d9-ca67a9772d7a" width="150"></img>
+<img src="https://github.com/CesarPT/CesarPT/assets/76701595/1618cf04-d63c-4f6d-9c59-8da8c4184a33" width="120"></img>
+<img src="https://github.com/CesarPT/CesarPT/assets/76701595/47d369d7-ec73-4a00-bc6e-e63956e7080e" width="83"></img>
+
+#### Web Languages
+
+#### Frameworks
+
+#### Programming Languages
